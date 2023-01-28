@@ -1,0 +1,24 @@
+.error-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.error-title {
+    font-size: 10rem;
+    margin-bottom: 1rem;
+    color: #f44336;
+}
+
+.error-subtitle {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.error-link {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: blue;
+}
